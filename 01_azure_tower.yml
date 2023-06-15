@@ -1,3 +1,4 @@
+---
 - name: Azure Create RG
   hosts: localhost
   connection: local
